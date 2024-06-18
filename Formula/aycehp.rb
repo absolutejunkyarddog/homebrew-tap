@@ -1,7 +1,7 @@
 require "formula"
 require_relative "../custom_download_strategy.rb"
 
-class AYCEHP < formula
+class Aycehp < Formula
     desc "All You Can Eat Hot Pot"
     version "0.1.0"
     license "MIT"
