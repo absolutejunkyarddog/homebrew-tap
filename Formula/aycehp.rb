@@ -5,8 +5,6 @@ class Aycehp < Formula
     desc "All You Can Eat Hot Pot"
     version "0.1.0"
     license "MIT"
-
-    depends_on "curl"
     
     on_linux do
         if Hardware::CPU.intel?
